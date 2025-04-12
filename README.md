@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/L60JbDA.jpg" alt="Tech Banner" width="100%" />
+<img src="https://imgur.com/y0G7WGs.png" alt="Jagnesh Chawla GitHub" width="100%" />
 
 ### 👋 Hi there, I'm Jagnesh Chawla
 

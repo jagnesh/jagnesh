@@ -29,11 +29,10 @@ With 12+ years of experience building high-performance mobile and web apps, I sp
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
-![Jagnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagnesh&show_icons=true&theme=default&count_private=true)
+![Jagnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagnesh&show_icons=true&theme=default&count_private=true) -->
 
----
 
 📫 Let’s connect: [LinkedIn](https://linkedin.com/in/jagneshchawla) 

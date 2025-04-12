@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi there, I'm Jagnesh Chawla
 
-<!--
-**jagnesh/jagnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mobile & Web App Developer | React Native Specialist | TypeScript Enthusiast
 
-Here are some ideas to get you started:
+With 12+ years of experience building high-performance mobile and web apps, I specialize in:
+- 📱 **React Native**, **iOS (Swift)**, **Android (Kotlin/Java)**
+- 🌐 **React.js**, **Next.js**, **Node.js**, **TypeScript**
+- 🧠 Clean architecture, new RN architecture, modular design
+- 🧪 Unit & E2E Testing (Jest, React Native Testing Library, Detox)
+- 🌍 Worked with clients from UK, USA, UAE, KSA, and India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I'm the author of open-source libraries like:
+- [`react-native-splash-view`](https://github.com/yourname/react-native-splash-view)
+
+Always learning, building, and collaborating.
+
+📫 Let's connect: [LinkedIn](https://linkedin.com/in/jagneshchawla) 

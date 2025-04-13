@@ -13,7 +13,7 @@ With 12+ years of experience building high-performance mobile and web apps, I sp
 - 🌍 Worked with clients from UK, USA, UAE, KSA, and India
 
 🔧 I also maintain open-source libraries:
-- [`react-native-splash-view`](https://github.com/jagneshchawla/react-native-splash-view)
+- [`react-native-splash-view`](https://github.com/jagnesh/react-native-splash-view)
 
 ---
 
